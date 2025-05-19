@@ -51,5 +51,5 @@ This repository contains a Docker-based setup for a Python/Graphene backend and 
   ```
 - To remove local DynamoDB data:  
   ```sh
-  docker volume rm kanban_project_dynamodb-data
+  docker volume rm dynamodb-data
   ```
