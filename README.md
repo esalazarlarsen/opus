@@ -19,7 +19,7 @@ This repository contains a Docker-based setup for a Python/Graphene backend and 
 
 1. **Clone the repo**  
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/esalazarlarsen/opus
    cd kanban_project
    ```
 
